@@ -1,0 +1,5 @@
+.env
+.venv/
+wifi-support-assistant/.venv/
+__pycache__/
+*.pyc
